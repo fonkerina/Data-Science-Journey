@@ -3,3 +3,9 @@ seaborn
 scipy
 ipykernel
 imblearn
+pytorch
+tensorflow
+
+nltk
+re
+string
